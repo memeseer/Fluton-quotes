@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fluton Quotes</title>
+    <meta name="description" content="Golden quotes from the Fluton community. Updated daily.">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <!-- Space Canvas -->
+    <canvas id="space-canvas"></canvas>
+
+    <!-- Nebula layers -->
+    <div class="nebula nebula-1"></div>
+    <div class="nebula nebula-2"></div>
+    <div class="nebula nebula-3"></div>
+
+    <!-- Discord-style header -->
+    <header class="header" id="main-header">
+        <div class="header-content">
+            <div class="channel-icon">#</div>
+            <img src="media/logo.svg" alt="Fluton" class="logo-main">
+            <div class="header-divider"></div>
+            <div class="title-wrap">
+                <h1>golden-quotes</h1>
+                <p>From equally golden people · Fluton Community</p>
+            </div>
+            <div class="mode-toggle-area">
+                <span class="mode-label" id="mode-label-text">3D Planet</span>
+                <label class="toggle-3d" title="Toggle 3D Planet Mode">
+                    <input type="checkbox" id="toggle3d">
+                    <span class="toggle-slider"></span>
+                </label>
+            </div>
+        </div>
+    </header>
+
+    <!-- Floating maskot -->
+    <img src="media/maskot3.svg" alt="" class="header-maskot">
+
+    <!-- Normal mode: Discord feed -->
+    <main class="container" id="main-feed">
+        <div class="channel-header-bar">
+            <div class="channel-header-icon">⭐</div>
+            <div class="channel-header-info">
+                <h2>Welcome to #golden-quotes</h2>
+                <p>The best moments of our server, preserved for eternity</p>
+            </div>
+        </div>
+
+        <!-- Channel Tabs -->
+        <div class="channel-tabs" id="channel-tabs" role="tablist">
+            <button class="tab-btn active" id="tab-all" data-tab="all" role="tab" aria-selected="true">
+                <span class="tab-icon"># </span>all
+            </button>
+            <button class="tab-btn" id="tab-general" data-tab="general" role="tab" aria-selected="false">
+                <span class="tab-icon"># </span>general
+            </button>
+            <button class="tab-btn" id="tab-russia" data-tab="russia" role="tab" aria-selected="false">
+                <span class="tab-icon"># </span>russia
+            </button>
+            <button class="tab-btn" id="tab-india" data-tab="india" role="tab" aria-selected="false">
+                <span class="tab-icon"># </span>india
+            </button>
+            <button class="tab-btn" id="tab-indonesia" data-tab="indonesia" role="tab" aria-selected="false">
+                <span class="tab-icon"># </span>indonesia
+            </button>
+            <button class="tab-btn" id="tab-vietnam" data-tab="vietnam" role="tab" aria-selected="false">
+                <span class="tab-icon"># </span>vietnam
+            </button>
+            <button class="tab-btn" id="tab-nigeria" data-tab="nigeria" role="tab" aria-selected="false">
+                <span class="tab-icon"># </span>nigeria
+            </button>
+        </div>
+
+        <div id="quotes-grid" class="quotes-grid">
+            <!-- Dynamic content -->
+        </div>
+    </main>
+
+    <!-- 3D Planet mode -->
+    <div id="planet-scene" class="planet-scene" style="display:none;">
+        <div class="planet-hint">
+            <span>🖱️ Drag to rotate</span>
+        </div>
+        <div class="planet-wrapper" id="planet-wrapper">
+            <div class="planet-sphere" id="planet-sphere">
+                <!-- Cards injected by JS -->
+            </div>
+        </div>
+    </div>
+
+
+
+    <script src="main.js"></script>
+</body>
+
+</html>

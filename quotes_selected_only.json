@@ -1,0 +1,185 @@
+[
+  {
+    "schema": 2,
+    "generated_at": "2026-03-13T22:47:57.508928+00:00",
+    "since": "2026-03-12T22:47:57.508928+00:00",
+    "lookback_hours": 24,
+    "dry_run": true,
+    "selected_per_channel": [
+      {
+        "message_id": "1482014407709036697",
+        "channel_id": "1323051039192252506",
+        "timestamp": "2026-03-13T13:56:09.294000+00:00",
+        "author_name": "Emi",
+        "author_id": "1469251787281268921",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/1469251787281268921/22c622dc030c59ad9bc2e0f7c25a4203.png?size=256",
+        "text": "# Rumble rumble rumble.. It will feel so nice to kill Amaan in a very weird way 😂",
+        "text_raw": "# Rumble rumble rumble.. \n\nIt will feel so nice to kill Amaan in a very weird way 😂",
+        "is_ru": false,
+        "link": "https://discord.com/channels/1323051038143418388/1323051039192252506/1482014407709036697",
+        "why": "Угарная реплика о том, как 'убить' человека в странном стиле вызывает смех.",
+        "tags": [
+          "угар",
+          "мем"
+        ],
+        "alt_quotes": [
+          {
+            "message_id": "1482012021062107350"
+          },
+          {
+            "message_id": "1482016022109360223"
+          }
+        ],
+        "score": 8.0,
+        "shortlist_mode": "joke_gate",
+        "debug": {
+          "kept_quotes_in_channel": 2122,
+          "candidates_in_channel": 2122,
+          "shortlist_in_channel": 47
+        }
+      },
+      {
+        "message_id": "1482067966039167168",
+        "channel_id": "1471516611302395995",
+        "timestamp": "2026-03-13T17:28:58.595000+00:00",
+        "author_name": "sergdava",
+        "author_id": "943712310189490266",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/943712310189490266/c8bf6263071526bf2520b5ab287b0181.png?size=256",
+        "text": "Индия и Индонезия совместно разработали нового робота для Discord - модель Рукофон-3000. Особенности: 47 пальцев на каждой руке скорость набора до 400 сообщений в минуту автономность 18 часов без подзарядки (пока мама не заберёт телефон) 🤣",
+        "text_raw": "Индия и Индонезия совместно разработали нового робота для Discord - модель Рукофон-3000.\nОсобенности:\n47 пальцев на каждой руке\nскорость набора до 400 сообщений в минуту\nавтономность 18 часов без подзарядки (пока мама не заберёт телефон) 🤣",
+        "is_ru": true,
+        "link": "https://discord.com/channels/1323051038143418388/1471516611302395995/1482067966039167168",
+        "why": "Упоминание робота с 47 пальцами и шутка про маму, забирающую телефон, создают комичный образ.",
+        "tags": [
+          "угар",
+          "мем",
+          "кринж"
+        ],
+        "alt_quotes": [],
+        "score": 16.8,
+        "shortlist_mode": "joke_gate",
+        "debug": {
+          "kept_quotes_in_channel": 296,
+          "candidates_in_channel": 296,
+          "shortlist_in_channel": 41
+        }
+      },
+      {
+        "message_id": "1482029606902042748",
+        "channel_id": "1464977218521403477",
+        "timestamp": "2026-03-13T14:56:33.064000+00:00",
+        "author_name": "Heisenberg",
+        "author_id": "982685772123631696",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/982685772123631696/8b35334529f8d35782095c441a436e08.png?size=256",
+        "text": "Ap mat toot jao Mai always toota hua copy mat kro ha ha 😂",
+        "text_raw": "Ap mat toot jao\n Mai always toota hua copy mat kro ha ha 😂",
+        "is_ru": false,
+        "link": "https://discord.com/channels/1323051038143418388/1464977218521403477/1482029606902042748",
+        "why": "Шутка про 'то, что ты копируешь' звучит очень смешно в контексте общения, особенно с добавлением смайлов.",
+        "tags": [
+          "угар",
+          "мем",
+          "шутка"
+        ],
+        "alt_quotes": [
+          {
+            "message_id": "1482031151706017824"
+          },
+          {
+            "message_id": "1482031010634928149"
+          }
+        ],
+        "score": 6.0,
+        "shortlist_mode": "joke_gate",
+        "debug": {
+          "kept_quotes_in_channel": 712,
+          "candidates_in_channel": 712,
+          "shortlist_in_channel": 28
+        }
+      },
+      {
+        "message_id": "1481869644523634789",
+        "channel_id": "1464976455653134628",
+        "timestamp": "2026-03-13T04:20:55.061000+00:00",
+        "author_name": "Kadriweeee",
+        "author_id": "1280451645540663316",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/1280451645540663316/7be0e7f88b565425321d54761262a3c2.png?size=256",
+        "text": "Anjay, bawa swallow pulang jadi Eiger 🤣",
+        "text_raw": "Anjay, bawa swallow pulang jadi Eiger 🤣",
+        "is_ru": false,
+        "link": "https://discord.com/channels/1323051038143418388/1464976455653134628/1481869644523634789",
+        "why": "Сравнение забавное и неожиданное, вызывает смех.",
+        "tags": [
+          "угар",
+          "мем"
+        ],
+        "alt_quotes": [],
+        "score": 6.0,
+        "shortlist_mode": "joke_gate",
+        "debug": {
+          "kept_quotes_in_channel": 1519,
+          "candidates_in_channel": 1519,
+          "shortlist_in_channel": 78
+        }
+      },
+      {
+        "message_id": "1482021155605975054",
+        "channel_id": "1469716246407811133",
+        "timestamp": "2026-03-13T14:22:58.118000+00:00",
+        "author_name": "seven321",
+        "author_id": "1023152080543813652",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/1023152080543813652/eb7f1f01d66ec33956190e2f36c437ad.png?size=256",
+        "text": "hút kiểu đó chưa kịp nổ hẹo r :))))))))))))))",
+        "text_raw": "hút kiểu đó chưa kịp nổ hẹo r :))))))))))))))",
+        "is_ru": false,
+        "link": "https://discord.com/channels/1323051038143418388/1469716246407811133/1482021155605975054",
+        "why": "Сравнение с нереальной ситуацией вызывает смех.",
+        "tags": [
+          "угар",
+          "мем"
+        ],
+        "alt_quotes": [],
+        "score": 9.0,
+        "shortlist_mode": "joke_gate",
+        "debug": {
+          "kept_quotes_in_channel": 546,
+          "candidates_in_channel": 546,
+          "shortlist_in_channel": 79
+        }
+      },
+      {
+        "message_id": "1481909460376223786",
+        "channel_id": "1465367210196205578",
+        "timestamp": "2026-03-13T06:59:07.900000+00:00",
+        "author_name": "Dr adewale",
+        "author_id": "1222301674991915124",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/1222301674991915124/f629e3adebe37a735ec56055fc2e6b31.png?size=256",
+        "text": "Thanks The thing is doing me like merlin",
+        "text_raw": "Thanks \nThe thing is doing me like merlin",
+        "is_ru": false,
+        "link": "https://discord.com/channels/1323051038143418388/1465367210196205578/1481909460376223786",
+        "why": "Фраза \"The thing is doing me like merlin\" звучит абсурдно и вызывает смех своим неожиданным сравнением.",
+        "tags": [
+          "угар",
+          "кринж",
+          "мем"
+        ],
+        "alt_quotes": [
+          {
+            "message_id": "1481981960623620157"
+          },
+          {
+            "message_id": "1481994541853573121"
+          }
+        ],
+        "score": 2.0,
+        "shortlist_mode": "top_score",
+        "debug": {
+          "kept_quotes_in_channel": 44,
+          "candidates_in_channel": 44,
+          "shortlist_in_channel": 44
+        }
+      }
+    ]
+  }
+]
