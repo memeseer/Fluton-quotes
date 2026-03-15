@@ -471,7 +471,7 @@ function initModeToggle(data) {
     function switchTo3D() {
         feed.style.display = 'none';
         planet.style.display = 'flex';
-        footer.style.display = 'none';
+        if (footer) footer.style.display = 'none';
         document.body.style.overflow = 'hidden';
         if (label) label.textContent = 'Planet ON';
 
@@ -482,7 +482,7 @@ function initModeToggle(data) {
     function switchToFeed() {
         planet.style.display = 'none';
         feed.style.display = 'block';
-        footer.style.display = '';
+        if (footer) footer.style.display = '';
         document.body.style.overflow = '';
         if (label) label.textContent = '3D Planet';
         stopPlanetLoop();
