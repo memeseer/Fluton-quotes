@@ -181,5 +181,197 @@
         }
       }
     ]
+  },
+  {
+    "schema": 2,
+    "generated_at": "2026-03-15T17:15:27.615246+00:00",
+    "since": "2026-03-14T17:15:27.615246+00:00",
+    "lookback_hours": 24,
+    "dry_run": true,
+    "selected_per_channel": [
+      {
+        "message_id": "1482778470319653005",
+        "channel_id": "1323051039192252506",
+        "timestamp": "2026-03-15T16:32:16.016000+00:00",
+        "author_name": "||『 Tấn Dũng  』||",
+        "author_id": "1094958797878992937",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/1094958797878992937/fd49ee6370d11c41a049d372f6914ea0.png?size=256",
+        "text": "=)))) lol",
+        "text_raw": "=)))) lol",
+        "is_ru": false,
+        "link": "https://discord.com/channels/1323051038143418388/1323051039192252506/1482778470319653005",
+        "why": "Смешно из-за абсурдной простоты и использования смайлов, создающих комический эффект.",
+        "tags": [
+          "угар",
+          "мем",
+          "смешно"
+        ],
+        "alt_quotes": [
+          {
+            "message_id": "1482778233135960205"
+          },
+          {
+            "message_id": "1482747039103324273"
+          }
+        ],
+        "score": 5.0,
+        "shortlist_mode": "joke_gate",
+        "debug": {
+          "kept_quotes_in_channel": 2285,
+          "candidates_in_channel": 2285,
+          "shortlist_in_channel": 20
+        }
+      },
+      {
+        "message_id": "1482753598419894504",
+        "channel_id": "1471516611302395995",
+        "timestamp": "2026-03-15T14:53:26.093000+00:00",
+        "author_name": "sergdava",
+        "author_id": "943712310189490266",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/943712310189490266/c8bf6263071526bf2520b5ab287b0181.png?size=256",
+        "text": "Согласен. Уже нужно по серьезной начинать работать. Но косячки та оставались при тестировании. Если сними запуститься в майнете это может плохо сказаться на проекте и на наших средствах которые мы туда принесем. Так что спешка тут ни к чему. Спешка нужна только при ловле блох 🤣",
+        "text_raw": "Согласен. Уже нужно по серьезной начинать работать. Но косячки та оставались при тестировании. Если сними запуститься в майнете это может плохо сказаться на проекте и на наших средствах которые мы туда принесем. Так что спешка тут ни к чему. Спешка нужна только при ловле блох 🤣",
+        "is_ru": true,
+        "link": "https://discord.com/channels/1323051038143418388/1471516611302395995/1482753598419894504",
+        "why": "Шутка про спешку и ловлю блох смешна из-за неожиданного сравнения.",
+        "tags": [
+          "угар",
+          "мем",
+          "юмор"
+        ],
+        "alt_quotes": [
+          {
+            "message_id": "1482768363460755649"
+          },
+          {
+            "message_id": "1482729075922571294"
+          }
+        ],
+        "score": 4.0,
+        "shortlist_mode": "joke_gate",
+        "debug": {
+          "kept_quotes_in_channel": 113,
+          "candidates_in_channel": 113,
+          "shortlist_in_channel": 5
+        }
+      },
+      {
+        "message_id": "1482759153398190090",
+        "channel_id": "1464977218521403477",
+        "timestamp": "2026-03-15T15:15:30.503000+00:00",
+        "author_name": "𝗥𝗔𝗝𝗔𝗧",
+        "author_id": "1209442337030144040",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/1209442337030144040/1d66578788c14a4bb236b4cbb47d1514.png?size=256",
+        "text": "Le ab m bi chidauga🤣 🤣",
+        "text_raw": "Le ab m bi chidauga🤣 🤣",
+        "is_ru": false,
+        "link": "https://discord.com/channels/1323051038143418388/1464977218521403477/1482759153398190090",
+        "why": "Смешная игра слов и забавные эмоции.",
+        "tags": [
+          "угар",
+          "мем"
+        ],
+        "alt_quotes": [
+          {
+            "message_id": "1482748555771777124"
+          },
+          {
+            "message_id": "1482680573104361543"
+          }
+        ],
+        "score": 6.0,
+        "shortlist_mode": "joke_gate",
+        "debug": {
+          "kept_quotes_in_channel": 505,
+          "candidates_in_channel": 505,
+          "shortlist_in_channel": 10
+        }
+      },
+      {
+        "message_id": "1482445414518100173",
+        "channel_id": "1464976455653134628",
+        "timestamp": "2026-03-14T18:28:49.325000+00:00",
+        "author_name": "Ar Lor",
+        "author_id": "1295366185113882728",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/1295366185113882728/5a3d383f33f0c8a46e3385a174a47d9b.png?size=256",
+        "text": "Bs lah, bjir sekarang mustahil cok dev ga pake ai 🤣 🤣",
+        "text_raw": "Bs lah, bjir sekarang mustahil cok dev ga pake ai 🤣 🤣",
+        "is_ru": false,
+        "link": "https://discord.com/channels/1323051038143418388/1464976455653134628/1482445414518100173",
+        "why": "Смешная игра слов про программирование и искусственный интеллект.",
+        "tags": [
+          "угар",
+          "мем",
+          "шутка"
+        ],
+        "alt_quotes": [],
+        "score": 6.0,
+        "shortlist_mode": "joke_gate",
+        "debug": {
+          "kept_quotes_in_channel": 1358,
+          "candidates_in_channel": 1358,
+          "shortlist_in_channel": 49
+        }
+      },
+      {
+        "message_id": "1482719343895908362",
+        "channel_id": "1469716246407811133",
+        "timestamp": "2026-03-15T12:37:19.178000+00:00",
+        "author_name": "seven321",
+        "author_id": "1023152080543813652",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/1023152080543813652/eb7f1f01d66ec33956190e2f36c437ad.png?size=256",
+        "text": "ko chát cũng tụt chuổi nữa hã bác :))))",
+        "text_raw": "ko chát cũng tụt chuổi nữa hã bác :))))",
+        "is_ru": false,
+        "link": "https://discord.com/channels/1323051038143418388/1469716246407811133/1482719343895908362",
+        "why": "Смешная игра слов на вьетнамском, которая вызывает улыбку.",
+        "tags": [
+          "угар",
+          "кринж",
+          "мем"
+        ],
+        "alt_quotes": [
+          {
+            "message_id": "1482710500952510665"
+          },
+          {
+            "message_id": "1482708002757935264"
+          }
+        ],
+        "score": 7.0,
+        "shortlist_mode": "joke_gate",
+        "debug": {
+          "kept_quotes_in_channel": 154,
+          "candidates_in_channel": 154,
+          "shortlist_in_channel": 10
+        }
+      },
+      {
+        "message_id": "1482739757938376905",
+        "channel_id": "1465367210196205578",
+        "timestamp": "2026-03-15T13:58:26.265000+00:00",
+        "author_name": "Sophie",
+        "author_id": "976889590759690251",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/976889590759690251/9818fea17815efe805a6cfb9616ec55e.png?size=256",
+        "text": "Thank you ♥️",
+        "text_raw": "Thank you ♥️",
+        "is_ru": false,
+        "link": "https://discord.com/channels/1323051038143418388/1465367210196205578/1482739757938376905",
+        "why": "Простое и милое \"Спасибо\" вызывает улыбку, особенно в контексте общения в меме-сообществе.",
+        "tags": [
+          "угар",
+          "кринж",
+          "мем"
+        ],
+        "alt_quotes": [],
+        "score": 4.0,
+        "shortlist_mode": "top_score",
+        "debug": {
+          "kept_quotes_in_channel": 17,
+          "candidates_in_channel": 17,
+          "shortlist_in_channel": 17
+        }
+      }
+    ]
   }
 ]
