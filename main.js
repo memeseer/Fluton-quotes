@@ -88,6 +88,15 @@ const CHANNEL_INDONESIA  = '1464976455653134628';
 const CHANNEL_VIETNAM    = '1469716246407811133';
 const CHANNEL_NIGERIA    = '1465367210196205578';
 
+const CHANNEL_MAP = {
+    [CHANNEL_GENERAL]: 'general',
+    [CHANNEL_RUSSIA]: 'russia',
+    [CHANNEL_INDIA]: 'india',
+    [CHANNEL_INDONESIA]: 'indonesia',
+    [CHANNEL_VIETNAM]: 'vietnam',
+    [CHANNEL_NIGERIA]: 'nigeria'
+};
+
 let allQuotes = [];      // flat array of quote objects
 let currentTab = 'all';
 
@@ -122,12 +131,17 @@ function filterQuotes(quotes, tab) {
 
 // ─── Date helpers ──────────────────────────
 function dayLabel(ts) {
-    const now = new Date();
-    const d = new Date(ts);
-    const diff = Math.floor((now - d) / 86400000);
-    if (diff === 0) return 'Today';
-    if (diff === 1) return 'Yesterday';
-    return d.toLocaleDateString('en-US', { day: 'numeric', month: 'long', year: 'numeric' });
+    const qDate = new Date(ts);
+    const qDateStr = qDate.toDateString();
+    const today = new Date().toDateString();
+    
+    if (qDateStr === today) return 'Today';
+    
+    const yest = new Date();
+    yest.setDate(yest.getDate() - 1);
+    if (qDateStr === yest.toDateString()) return 'Yesterday';
+    
+    return qDate.toLocaleDateString('en-US', { day: 'numeric', month: 'long', year: 'numeric' });
 }
 
 function fmtTime(ts) {
@@ -159,6 +173,8 @@ function createQuoteCard(q, index, showSep) {
             </a>`
         : '';
 
+    const chanName = CHANNEL_MAP[q.channel_id] || 'unknown';
+
     return `
         ${sep}
         <article class="quote-card${isNew ? ' is-new' : ''}" style="animation-delay:${index * 0.055}s">
@@ -178,7 +194,7 @@ function createQuoteCard(q, index, showSep) {
             <div class="message-body">
                 <div class="message-header">
                     <span class="author-name">${q.author_name}</span>
-                    <span class="message-time" title="${fmtFull(q.timestamp)}">${fmtTime(q.timestamp)}</span>
+                    <span class="message-time" title="${fmtFull(q.timestamp)}">${fmtTime(q.timestamp)} <span class="channel-label">(${chanName})</span></span>
                 </div>
                 <div class="quote-text">${q.text}</div>
             </div>
@@ -211,12 +227,14 @@ function buildFeed(quotes, animate = false) {
         grid.innerHTML = '<div class="empty-state"><h2>🌌 Nothing here yet…</h2><p>No golden words found. Try again later.</p></div>';
         return;
     }
-    const sorted = [...quotes].sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp));
-    let html = '', lastDay = null;
+    // Strict numeric sort
+    const sorted = [...quotes].sort((a, b) => new Date(b.timestamp).getTime() - new Date(a.timestamp).getTime());
+    
+    let html = '', lastDayStr = null;
     sorted.forEach((q, i) => {
-        const day = new Date(q.timestamp).toDateString();
-        html += createQuoteCard(q, i, day !== lastDay);
-        lastDay = day;
+        const currentDayStr = new Date(q.timestamp).toDateString();
+        html += createQuoteCard(q, i, currentDayStr !== lastDayStr);
+        lastDayStr = currentDayStr;
     });
     grid.innerHTML = html;
 }

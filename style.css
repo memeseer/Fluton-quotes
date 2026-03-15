@@ -436,6 +436,11 @@ main.container {
     user-select: none;
 }
 
+.channel-label {
+    opacity: 0.65;
+    margin-left: 2px;
+}
+
 .quote-text {
     font-size: 0.97rem;
     color: var(--discord-text);
