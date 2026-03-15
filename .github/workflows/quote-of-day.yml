@@ -42,7 +42,7 @@ jobs:
 
 
           QUOTE_POST_CHANNEL_ID: "1471673873362718841"
-          GUILD_ID: "1460130124598087712"
+          GUILD_ID: "1323051038143418388"
 
           # настройки
           QUOTE_LOOKBACK_HOURS: "24"
