@@ -562,5 +562,186 @@
         }
       }
     ]
+  },
+  {
+    "schema": 2,
+    "generated_at": "2026-03-17T14:51:38.944924+00:00",
+    "since": "2026-03-16T14:51:38.944924+00:00",
+    "lookback_hours": 24,
+    "dry_run": true,
+    "selected_per_channel": [
+      {
+        "message_id": "1483458310215696436",
+        "channel_id": "1323051039192252506",
+        "timestamp": "2026-03-17T13:33:42.478000+00:00",
+        "author_name": "Bisha",
+        "author_id": "1270363923136249959",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/1270363923136249959/1d3b47e07199c070ed972e10bb128fc0.png?size=256",
+        "text": "job mean own or family job 😂",
+        "text_raw": "job mean own or family job 😂",
+        "is_ru": false,
+        "link": "https://discord.com/channels/1323051038143418388/1323051039192252506/1483458310215696436",
+        "why": "Смешно, потому что фраза о работе с намеком на неопределенность создает комичный эффект.",
+        "tags": [
+          "угар",
+          "кринж",
+          "мем"
+        ],
+        "alt_quotes": [
+          {
+            "message_id": "1483465428494717070"
+          },
+          {
+            "message_id": "1483474975875924159"
+          }
+        ],
+        "score": 6.0,
+        "shortlist_mode": "joke_gate",
+        "debug": {
+          "kept_quotes_in_channel": 2034,
+          "candidates_in_channel": 2034,
+          "shortlist_in_channel": 20
+        }
+      },
+      {
+        "message_id": "1483119111708868685",
+        "channel_id": "1471516611302395995",
+        "timestamp": "2026-03-16T15:05:51.252000+00:00",
+        "author_name": "sergdava",
+        "author_id": "943712310189490266",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/943712310189490266/c8bf6263071526bf2520b5ab287b0181.png?size=256",
+        "text": "В живых должен остаться только один. Я конечно не Дункан Маклауд, но дело свое знаю 🤣",
+        "text_raw": "В живых должен остаться только один. Я конечно не Дункан Маклауд, но дело свое знаю 🤣",
+        "is_ru": true,
+        "link": "https://discord.com/channels/1323051038143418388/1471516611302395995/1483119111708868685",
+        "why": "Сравнение с Дунканом Маклаудом в контексте выживания звучит смешно и абсурдно.",
+        "tags": [
+          "угар",
+          "мем",
+          "кринж"
+        ],
+        "alt_quotes": [],
+        "score": 6.0,
+        "shortlist_mode": "joke_gate",
+        "debug": {
+          "kept_quotes_in_channel": 287,
+          "candidates_in_channel": 287,
+          "shortlist_in_channel": 16
+        }
+      },
+      {
+        "message_id": "1483356262681808988",
+        "channel_id": "1464977218521403477",
+        "timestamp": "2026-03-17T06:48:12.450000+00:00",
+        "author_name": "𝗠𝗦 𝗗𝗛𝗢𝗡𝗜",
+        "author_id": "1234057894572326991",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/1234057894572326991/d0fc7edb418af507b5aca4f95b926977.png?size=256",
+        "text": "Unse nhai leta permission mai 🤣 🤣 woh nahi nahi kuch bolti hai mujhe",
+        "text_raw": "Unse nhai leta permission mai 🤣 🤣 woh nahi nahi kuch bolti hai mujhe",
+        "is_ru": false,
+        "link": "https://discord.com/channels/1323051038143418388/1464977218521403477/1483356262681808988",
+        "why": "Смешная игра слов и ситуация, которая вызывает смех.",
+        "tags": [
+          "угар",
+          "мем"
+        ],
+        "alt_quotes": [],
+        "score": 6.0,
+        "shortlist_mode": "joke_gate",
+        "debug": {
+          "kept_quotes_in_channel": 400,
+          "candidates_in_channel": 400,
+          "shortlist_in_channel": 4
+        }
+      },
+      {
+        "message_id": "1483459690120613909",
+        "channel_id": "1464976455653134628",
+        "timestamp": "2026-03-17T13:39:11.473000+00:00",
+        "author_name": "×CLoud•",
+        "author_id": "846000484099817532",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/846000484099817532/80d8396accc5a3039de3842a29343e2e.png?size=256",
+        "text": "Anget seperti tai ayam yaa ndii 😂",
+        "text_raw": "Anget seperti tai ayam yaa ndii 😂",
+        "is_ru": false,
+        "link": "https://discord.com/channels/1323051038143418388/1464976455653134628/1483459690120613909",
+        "why": "Сравнение с куриным дерьмом - это неожиданно и абсурдно.",
+        "tags": [
+          "угар",
+          "мем",
+          "кринж"
+        ],
+        "alt_quotes": [],
+        "score": 6.0,
+        "shortlist_mode": "joke_gate",
+        "debug": {
+          "kept_quotes_in_channel": 1293,
+          "candidates_in_channel": 1293,
+          "shortlist_in_channel": 38
+        }
+      },
+      {
+        "message_id": "1483476223693819945",
+        "channel_id": "1469716246407811133",
+        "timestamp": "2026-03-17T14:44:53.384000+00:00",
+        "author_name": "Satgai",
+        "author_id": "1196455715322216539",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/1196455715322216539/53ddced1f836f6ce61a94c161e2a78bb.png?size=256",
+        "text": "giờ phải cố có cái code để đấy thì mới an tâm dc. biết đâu sau này bán dc giống con gì đó 1 con 700$🤣",
+        "text_raw": "giờ phải cố có cái code để đấy thì mới an tâm dc. biết đâu sau này bán dc giống con gì đó 1 con 700$🤣",
+        "is_ru": false,
+        "link": "https://discord.com/channels/1323051038143418388/1469716246407811133/1483476223693819945",
+        "why": "Шутка о продаже кода за 700 долларов с ироничным подтекстом вызывает смех.",
+        "tags": [
+          "угар",
+          "мем",
+          "ирония"
+        ],
+        "alt_quotes": [
+          {
+            "message_id": "1483473996329779362"
+          },
+          {
+            "message_id": "1483475422598958338"
+          }
+        ],
+        "score": 8.0,
+        "shortlist_mode": "joke_gate",
+        "debug": {
+          "kept_quotes_in_channel": 563,
+          "candidates_in_channel": 563,
+          "shortlist_in_channel": 63
+        }
+      },
+      {
+        "message_id": "1483197390017007757",
+        "channel_id": "1465367210196205578",
+        "timestamp": "2026-03-16T20:16:54.255000+00:00",
+        "author_name": "Dan",
+        "author_id": "1345522094074499155",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/1345522094074499155/47128b3b29d1ed9caeb6ef4b4808f7b6.png?size=256",
+        "text": "If this assurance keeps coming, then I'll be relieved forever 😂",
+        "text_raw": "If this assurance keeps coming, then I'll be relieved forever 😂",
+        "is_ru": false,
+        "link": "https://discord.com/channels/1323051038143418388/1465367210196205578/1483197390017007757",
+        "why": "Комичный контекст и неожиданный поворот с 'облегчением навсегда' делают это сообщение смешным.",
+        "tags": [
+          "угар",
+          "мем"
+        ],
+        "alt_quotes": [
+          {
+            "message_id": "1483161879583920314"
+          }
+        ],
+        "score": 6.0,
+        "shortlist_mode": "joke_gate",
+        "debug": {
+          "kept_quotes_in_channel": 37,
+          "candidates_in_channel": 37,
+          "shortlist_in_channel": 2
+        }
+      }
+    ]
   }
 ]
