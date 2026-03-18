@@ -743,5 +743,196 @@
         }
       }
     ]
+  },
+  {
+    "schema": 2,
+    "generated_at": "2026-03-18T14:58:22.578838+00:00",
+    "since": "2026-03-17T14:58:22.578838+00:00",
+    "lookback_hours": 24,
+    "dry_run": true,
+    "selected_per_channel": [
+      {
+        "message_id": "1483828237149802518",
+        "channel_id": "1323051039192252506",
+        "timestamp": "2026-03-18T14:03:39.932000+00:00",
+        "author_name": "Osita",
+        "author_id": "1244794672878981180",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/1244794672878981180/3ead75e92a774fce890c1bf3a13250be.png?size=256",
+        "text": "Let's kill them all 🤣",
+        "text_raw": "Let's kill them all 🤣",
+        "is_ru": false,
+        "link": "https://discord.com/channels/1323051038143418388/1323051039192252506/1483828237149802518",
+        "why": "Фраза звучит очень абсурдно и неожиданно, что вызывает смех.",
+        "tags": [
+          "угар",
+          "мем",
+          "шутка"
+        ],
+        "alt_quotes": [
+          {
+            "message_id": "1483837520629334066"
+          },
+          {
+            "message_id": "1483764252119666749"
+          }
+        ],
+        "score": 6.0,
+        "shortlist_mode": "joke_gate",
+        "debug": {
+          "kept_quotes_in_channel": 2114,
+          "candidates_in_channel": 2114,
+          "shortlist_in_channel": 26
+        }
+      },
+      {
+        "message_id": "1483504542917070878",
+        "channel_id": "1471516611302395995",
+        "timestamp": "2026-03-17T16:37:25.213000+00:00",
+        "author_name": "sergdava",
+        "author_id": "943712310189490266",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/943712310189490266/c8bf6263071526bf2520b5ab287b0181.png?size=256",
+        "text": "По моему этот трон у всех любимый. И самое главное без стука никто не зайдет. Чествуешь себя директором помещения 🤣",
+        "text_raw": "По моему этот трон у всех любимый. И самое главное без стука никто не зайдет. Чествуешь себя директором помещения 🤣",
+        "is_ru": true,
+        "link": "https://discord.com/channels/1323051038143418388/1471516611302395995/1483504542917070878",
+        "why": "Сравнение с директором помещения и фраза о звуках при входе звучит очень смешно и создаёт яркий образ.",
+        "tags": [
+          "угар",
+          "мем",
+          "юмор"
+        ],
+        "alt_quotes": [
+          {
+            "message_id": "1483505549424197723"
+          },
+          {
+            "message_id": "1483525676740120656"
+          }
+        ],
+        "score": 2.0,
+        "shortlist_mode": "joke_gate",
+        "debug": {
+          "kept_quotes_in_channel": 298,
+          "candidates_in_channel": 298,
+          "shortlist_in_channel": 25
+        }
+      },
+      {
+        "message_id": "1483751814695485561",
+        "channel_id": "1464977218521403477",
+        "timestamp": "2026-03-18T08:59:59.399000+00:00",
+        "author_name": "RajaFX",
+        "author_id": "781814133662023680",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/781814133662023680/3488e88554523fb801991f4692ee746b.png?size=256",
+        "text": "Hmm bilkul bhai haha 😂",
+        "text_raw": "Hmm bilkul bhai haha 😂",
+        "is_ru": false,
+        "link": "https://discord.com/channels/1323051038143418388/1464977218521403477/1483751814695485561",
+        "why": "Смешное использование хаха и смайлов создает легкую и веселую атмосферу.",
+        "tags": [
+          "угар",
+          "мем"
+        ],
+        "alt_quotes": [
+          {
+            "message_id": "1483763599649407017"
+          },
+          {
+            "message_id": "1483758392970575972"
+          }
+        ],
+        "score": 8.0,
+        "shortlist_mode": "joke_gate",
+        "debug": {
+          "kept_quotes_in_channel": 273,
+          "candidates_in_channel": 273,
+          "shortlist_in_channel": 10
+        }
+      },
+      {
+        "message_id": "1483542927870267452",
+        "channel_id": "1464976455653134628",
+        "timestamp": "2026-03-17T19:09:56.899000+00:00",
+        "author_name": "spartan andi",
+        "author_id": "1360321789800218925",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/1360321789800218925/4e30b1bb5c52243026a012fa7f044642.png?size=256",
+        "text": "tak coba dulu siapa tahu kek biji hasilnya 🤣",
+        "text_raw": "tak coba dulu siapa tahu kek biji hasilnya 🤣",
+        "is_ru": false,
+        "link": "https://discord.com/channels/1323051038143418388/1464976455653134628/1483542927870267452",
+        "why": "Шутка про 'biji' звучит абсурдно и неожиданно, что делает её смешной.",
+        "tags": [
+          "угар",
+          "кринж",
+          "мем"
+        ],
+        "alt_quotes": [],
+        "score": 6.0,
+        "shortlist_mode": "joke_gate",
+        "debug": {
+          "kept_quotes_in_channel": 1192,
+          "candidates_in_channel": 1192,
+          "shortlist_in_channel": 27
+        }
+      },
+      {
+        "message_id": "1483833074591731873",
+        "channel_id": "1469716246407811133",
+        "timestamp": "2026-03-18T14:22:53.268000+00:00",
+        "author_name": "x💀x",
+        "author_id": "831395246146977823",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/831395246146977823/716433cb0f9f9ac5365a3f8531847d05.png?size=256",
+        "text": "game gì cơ cấu cmnr =))",
+        "text_raw": "game gì cơ cấu cmnr =))",
+        "is_ru": false,
+        "link": "https://discord.com/channels/1323051038143418388/1469716246407811133/1483833074591731873",
+        "why": "Смешная игра слов и выражение недоумения.",
+        "tags": [
+          "угар",
+          "кринж",
+          "мем"
+        ],
+        "alt_quotes": [
+          {
+            "message_id": "1483841107103318098"
+          },
+          {
+            "message_id": "1483739846735560814"
+          }
+        ],
+        "score": 9.0,
+        "shortlist_mode": "joke_gate",
+        "debug": {
+          "kept_quotes_in_channel": 515,
+          "candidates_in_channel": 515,
+          "shortlist_in_channel": 43
+        }
+      },
+      {
+        "message_id": "1483506094041989120",
+        "channel_id": "1465367210196205578",
+        "timestamp": "2026-03-17T16:43:35.030000+00:00",
+        "author_name": "StunnerDMV",
+        "author_id": "905550507932778528",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/905550507932778528/17b6982518fcb26f68c5f306e4a1747f.png?size=256",
+        "text": "lol 😂",
+        "text_raw": "lol 😂",
+        "is_ru": false,
+        "link": "https://discord.com/channels/1323051038143418388/1465367210196205578/1483506094041989120",
+        "why": "Просто смешное выражение эмоций без контекста, что делает его абсурдным.",
+        "tags": [
+          "угар",
+          "мем"
+        ],
+        "alt_quotes": [],
+        "score": 4.0,
+        "shortlist_mode": "joke_gate",
+        "debug": {
+          "kept_quotes_in_channel": 49,
+          "candidates_in_channel": 49,
+          "shortlist_in_channel": 1
+        }
+      }
+    ]
   }
 ]
