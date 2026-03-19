@@ -934,5 +934,183 @@
         }
       }
     ]
+  },
+  {
+    "schema": 2,
+    "generated_at": "2026-03-19T14:43:20.645724+00:00",
+    "since": "2026-03-18T14:43:20.645724+00:00",
+    "lookback_hours": 24,
+    "dry_run": true,
+    "selected_per_channel": [
+      {
+        "message_id": "1483879029634371684",
+        "channel_id": "1323051039192252506",
+        "timestamp": "2026-03-18T17:25:29.804000+00:00",
+        "author_name": "𝘋𝘸𝘪𝘪𝘯𝘥",
+        "author_id": "786464176880091136",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/786464176880091136/a23d57f9f403204f192b4a41d46c9123.png?size=256",
+        "text": "Oh sorry I thought it was a romantic genre😂",
+        "text_raw": "Oh sorry I thought it was a romantic genre😂",
+        "is_ru": false,
+        "link": "https://discord.com/channels/1323051038143418388/1323051039192252506/1483879029634371684",
+        "why": "Шутка про романтический жанр в неожиданном контексте заставляет смеяться.",
+        "tags": [
+          "угар",
+          "кринж",
+          "мем"
+        ],
+        "alt_quotes": [],
+        "score": 6.0,
+        "shortlist_mode": "joke_gate",
+        "debug": {
+          "kept_quotes_in_channel": 1927,
+          "candidates_in_channel": 1927,
+          "shortlist_in_channel": 24
+        }
+      },
+      {
+        "message_id": "1484189623075995728",
+        "channel_id": "1471516611302395995",
+        "timestamp": "2026-03-19T13:59:41.051000+00:00",
+        "author_name": "VictoriaWi",
+        "author_id": "1166594292886818817",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/1166594292886818817/8f0caf200cac175e29b4a0a7641a5906.png?size=256",
+        "text": "а я забыла про рамбл, но вовремя заглянула сюда 🤣",
+        "text_raw": "а я забыла про рамбл, но вовремя заглянула сюда 🤣",
+        "is_ru": true,
+        "link": "https://discord.com/channels/1323051038143418388/1471516611302395995/1484189623075995728",
+        "why": "Смешно, потому что это забавное признание о том, как человек чуть не пропустил важное событие, но вовремя вспомнил.",
+        "tags": [
+          "угар",
+          "кринж",
+          "мем"
+        ],
+        "alt_quotes": [],
+        "score": 6.0,
+        "shortlist_mode": "joke_gate",
+        "debug": {
+          "kept_quotes_in_channel": 208,
+          "candidates_in_channel": 208,
+          "shortlist_in_channel": 12
+        }
+      },
+      {
+        "message_id": "1484010681811603490",
+        "channel_id": "1464977218521403477",
+        "timestamp": "2026-03-19T02:08:38.129000+00:00",
+        "author_name": "Asuka",
+        "author_id": "1186644838544846873",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/1186644838544846873/a2709989cab2c2125834e0fd908b5404.png?size=256",
+        "text": "Me vi thik hun",
+        "text_raw": "Me vi thik hun",
+        "is_ru": false,
+        "link": "https://discord.com/channels/1323051038143418388/1464977218521403477/1484010681811603490",
+        "why": "Фраза 'Khelne chaiye maja ayega full on 💀💀' звучит смешно из-за контраста между серьезным предложением и эмодзи, которые подчеркивают абсурдность.",
+        "tags": [
+          "угар",
+          "мем",
+          "шутка"
+        ],
+        "alt_quotes": [],
+        "score": 4.0,
+        "shortlist_mode": "top_score",
+        "debug": {
+          "kept_quotes_in_channel": 234,
+          "candidates_in_channel": 234,
+          "shortlist_in_channel": 80
+        }
+      },
+      {
+        "message_id": "1483938982525141112",
+        "channel_id": "1464976455653134628",
+        "timestamp": "2026-03-18T21:23:43.687000+00:00",
+        "author_name": "Zarrr",
+        "author_id": "1116061228171788369",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/1116061228171788369/aa1c22bb7608fb19918f29696d36a1ba.png?size=256",
+        "text": "Biar tau aja dia suaramu kan kya bencong kabupaten🤣",
+        "text_raw": "Biar tau aja dia suaramu kan kya bencong kabupaten🤣",
+        "is_ru": false,
+        "link": "https://discord.com/channels/1323051038143418388/1464976455653134628/1483938982525141112",
+        "why": "Смешная игра слов с намеком на неудачное пение.",
+        "tags": [
+          "угар",
+          "мем",
+          "кринж"
+        ],
+        "alt_quotes": [
+          {
+            "message_id": "1483945254884216893"
+          },
+          {
+            "message_id": "1483909492705071174"
+          }
+        ],
+        "score": 6.0,
+        "shortlist_mode": "joke_gate",
+        "debug": {
+          "kept_quotes_in_channel": 1558,
+          "candidates_in_channel": 1558,
+          "shortlist_in_channel": 70
+        }
+      },
+      {
+        "message_id": "1484197971431133194",
+        "channel_id": "1469716246407811133",
+        "timestamp": "2026-03-19T14:32:51.454000+00:00",
+        "author_name": "seven321",
+        "author_id": "1023152080543813652",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/1023152080543813652/eb7f1f01d66ec33956190e2f36c437ad.png?size=256",
+        "text": "hình như ngủm từ đẩu r :)))))))",
+        "text_raw": "hình như ngủm từ đẩu r :)))))))",
+        "is_ru": false,
+        "link": "https://discord.com/channels/1323051038143418388/1469716246407811133/1484197971431133194",
+        "why": "Смешная игра слов с учетом, что 'ngủm' означает 'умереть', при этом звучит как шутка о том, что кто-то 'заснул' или 'пропал'.",
+        "tags": [
+          "угар",
+          "кринж",
+          "мем"
+        ],
+        "alt_quotes": [
+          {
+            "message_id": "1484198748807631018"
+          },
+          {
+            "message_id": "1484198029404930108"
+          }
+        ],
+        "score": 7.0,
+        "shortlist_mode": "joke_gate",
+        "debug": {
+          "kept_quotes_in_channel": 619,
+          "candidates_in_channel": 619,
+          "shortlist_in_channel": 80
+        }
+      },
+      {
+        "message_id": "1483848784722133042",
+        "channel_id": "1465367210196205578",
+        "timestamp": "2026-03-18T15:25:18.855000+00:00",
+        "author_name": "Voxmek 🦭",
+        "author_id": "1389253493726122117",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/1389253493726122117/f4e62c19041779430ae7cf5a771cae95.png?size=256",
+        "text": "Lol, them no wan allow you use light ni? 😂",
+        "text_raw": "Lol, them no wan allow you use light ni? 😂",
+        "is_ru": false,
+        "link": "https://discord.com/channels/1323051038143418388/1465367210196205578/1483848784722133042",
+        "why": "Смешная игра слов и ситуация с использованием света.",
+        "tags": [
+          "угар",
+          "мем"
+        ],
+        "alt_quotes": [],
+        "score": 6.0,
+        "shortlist_mode": "joke_gate",
+        "debug": {
+          "kept_quotes_in_channel": 69,
+          "candidates_in_channel": 69,
+          "shortlist_in_channel": 1
+        }
+      }
+    ]
   }
 ]
