@@ -1112,5 +1112,198 @@
         }
       }
     ]
+  },
+  {
+    "schema": 2,
+    "generated_at": "2026-03-20T14:39:48.141487+00:00",
+    "since": "2026-03-19T14:39:48.141487+00:00",
+    "lookback_hours": 24,
+    "dry_run": true,
+    "selected_per_channel": [
+      {
+        "message_id": "1484442855744344085",
+        "channel_id": "1323051039192252506",
+        "timestamp": "2026-03-20T06:45:56.424000+00:00",
+        "author_name": "RajaFX",
+        "author_id": "781814133662023680",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/781814133662023680/3488e88554523fb801991f4692ee746b.png?size=256",
+        "text": "Yes my body is fracture now lmao 😂",
+        "text_raw": "Yes my body is fracture now lmao 😂",
+        "is_ru": false,
+        "link": "https://discord.com/channels/1323051038143418388/1323051039192252506/1484442855744344085",
+        "why": "Сравнение со сломанным телом и смех в конце делает это очень смешным.",
+        "tags": [
+          "угар",
+          "мем",
+          "кринж"
+        ],
+        "alt_quotes": [
+          {
+            "message_id": "1484378949013213234"
+          },
+          {
+            "message_id": "1484378734432620656"
+          }
+        ],
+        "score": 6.0,
+        "shortlist_mode": "joke_gate",
+        "debug": {
+          "kept_quotes_in_channel": 1584,
+          "candidates_in_channel": 1584,
+          "shortlist_in_channel": 32
+        }
+      },
+      {
+        "message_id": "1484557163614572574",
+        "channel_id": "1471516611302395995",
+        "timestamp": "2026-03-20T14:20:09.544000+00:00",
+        "author_name": "sergdava",
+        "author_id": "943712310189490266",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/943712310189490266/c8bf6263071526bf2520b5ab287b0181.png?size=256",
+        "text": "Во сколько рамбл начинается? Минут десять, пятнадц... минут пять, десять пятого. Четыре, пять. Десять пятого утра. 🤣 Видел видео такое?",
+        "text_raw": "Во сколько рамбл начинается? Минут десять, пятнадц... минут пять, десять пятого. Четыре, пять. Десять пятого утра. 🤣  Видел видео такое?",
+        "is_ru": true,
+        "link": "https://discord.com/channels/1323051038143418388/1471516611302395995/1484557163614572574",
+        "why": "Абсурдная попытка понять время и смешной поток мыслей делают это сообщение очень забавным.",
+        "tags": [
+          "угар",
+          "кринж",
+          "мем"
+        ],
+        "alt_quotes": [
+          {
+            "message_id": "1484446593653674034"
+          },
+          {
+            "message_id": "1484553711698186281"
+          }
+        ],
+        "score": 6.0,
+        "shortlist_mode": "joke_gate",
+        "debug": {
+          "kept_quotes_in_channel": 249,
+          "candidates_in_channel": 249,
+          "shortlist_in_channel": 9
+        }
+      },
+      {
+        "message_id": "1484373879102111966",
+        "channel_id": "1464977218521403477",
+        "timestamp": "2026-03-20T02:11:51.111000+00:00",
+        "author_name": "Doraemon",
+        "author_id": "1353379186936647720",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/1353379186936647720/9f41d4032d927437f9a7417e71c72b29.png?size=256",
+        "text": "Yee thodi mumy mnu gift krdi 😂😂",
+        "text_raw": "Yee thodi mumy mnu gift krdi 😂😂",
+        "is_ru": false,
+        "link": "https://discord.com/channels/1323051038143418388/1464977218521403477/1484373879102111966",
+        "why": "Комбинация мема и остроумия, когда шутка о подарках превращается в нечто комичное.",
+        "tags": [
+          "угар",
+          "мем",
+          "шутка"
+        ],
+        "alt_quotes": [],
+        "score": 6.0,
+        "shortlist_mode": "joke_gate",
+        "debug": {
+          "kept_quotes_in_channel": 356,
+          "candidates_in_channel": 356,
+          "shortlist_in_channel": 13
+        }
+      },
+      {
+        "message_id": "1484493242853625986",
+        "channel_id": "1464976455653134628",
+        "timestamp": "2026-03-20T10:06:09.647000+00:00",
+        "author_name": "Zarrr",
+        "author_id": "1116061228171788369",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/1116061228171788369/aa1c22bb7608fb19918f29696d36a1ba.png?size=256",
+        "text": "Aduhh keluar dikit njir 🥵 Kuda laut (Hippocampus), berasal dari kata Yunani yang berarti \"kuda\" dan \"monster laut\". disebutkan dalam laman The Conversation, kuda laut adalah satu-satunya hewan yang pejantannya hamil. Dalam kasus kuda laut, peran utama berkembang biak dilakukan oleh pejantan. impian para cwi cwi si punya laki bisa hmil 😹 (penjelasan panjang di komen)",
+        "text_raw": "Aduhh keluar dikit njir 🥵\nKuda laut (Hippocampus), berasal dari kata Yunani yang berarti \"kuda\" dan \"monster laut\". disebutkan dalam laman The Conversation, kuda laut adalah satu-satunya hewan yang pejantannya hamil. Dalam kasus kuda laut, peran utama berkembang biak dilakukan oleh pejantan. \n\nimpian para cwi cwi si punya laki bisa hmil 😹\n\n(penjelasan panjang di komen)",
+        "is_ru": false,
+        "link": "https://discord.com/channels/1323051038143418388/1464976455653134628/1484493242853625986",
+        "why": "Сравнение кита и коника с беременной самкой вызывает неожиданный и забавный эффект.",
+        "tags": [
+          "угар",
+          "кринж",
+          "мем"
+        ],
+        "alt_quotes": [
+          {
+            "message_id": "1484552538215677994"
+          },
+          {
+            "message_id": "1484517275624144926"
+          }
+        ],
+        "score": 9.0,
+        "shortlist_mode": "joke_gate",
+        "debug": {
+          "kept_quotes_in_channel": 1409,
+          "candidates_in_channel": 1409,
+          "shortlist_in_channel": 27
+        }
+      },
+      {
+        "message_id": "1484552825466912910",
+        "channel_id": "1469716246407811133",
+        "timestamp": "2026-03-20T14:02:55.249000+00:00",
+        "author_name": "seven321",
+        "author_id": "1023152080543813652",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/1023152080543813652/eb7f1f01d66ec33956190e2f36c437ad.png?size=256",
+        "text": "ko tốn tiền nó ngu lắm. mà tốn tiền thì khôn tí :))))",
+        "text_raw": "ko tốn tiền nó ngu lắm. mà tốn tiền thì khôn tí :))))",
+        "is_ru": false,
+        "link": "https://discord.com/channels/1323051038143418388/1469716246407811133/1484552825466912910",
+        "why": "Смешно, потому что это абсурдное утверждение о том, что тратить деньги делает тебя умнее, что звучит как шутка о финансовой глупости.",
+        "tags": [
+          "угар",
+          "мем",
+          "финансовый юмор"
+        ],
+        "alt_quotes": [
+          {
+            "message_id": "1484559922460098592"
+          },
+          {
+            "message_id": "1484556246735388673"
+          }
+        ],
+        "score": 9.0,
+        "shortlist_mode": "joke_gate",
+        "debug": {
+          "kept_quotes_in_channel": 582,
+          "candidates_in_channel": 582,
+          "shortlist_in_channel": 64
+        }
+      },
+      {
+        "message_id": "1484453921626787880",
+        "channel_id": "1465367210196205578",
+        "timestamp": "2026-03-20T07:29:54.736000+00:00",
+        "author_name": "🅷🆈🅱🆁🅸🅳🔧",
+        "author_id": "1304747202434039870",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/1304747202434039870/5a8de737d797c46d65eec1a8619625bf.png?size=256",
+        "text": "No cap brr... And I don't know if it's general cuz this 9ja is dry compared to others I've been to",
+        "text_raw": "No cap brr...\nAnd I don't know if it's general cuz this 9ja is dry compared to others I've been to",
+        "is_ru": false,
+        "link": "https://discord.com/channels/1323051038143418388/1465367210196205578/1484453921626787880",
+        "why": "Сравнение событий в Нигерии с другими местами, где было больше веселья, звучит абсурдно и смешно.",
+        "tags": [
+          "угар",
+          "кринж",
+          "мем"
+        ],
+        "alt_quotes": [],
+        "score": 2.0,
+        "shortlist_mode": "top_score",
+        "debug": {
+          "kept_quotes_in_channel": 53,
+          "candidates_in_channel": 53,
+          "shortlist_in_channel": 53
+        }
+      }
+    ]
   }
 ]
