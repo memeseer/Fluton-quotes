@@ -1305,5 +1305,194 @@
         }
       }
     ]
+  },
+  {
+    "schema": 2,
+    "generated_at": "2026-03-21T14:21:53.077732+00:00",
+    "since": "2026-03-20T14:21:53.077732+00:00",
+    "lookback_hours": 24,
+    "dry_run": true,
+    "selected_per_channel": [
+      {
+        "message_id": "1484564359496732728",
+        "channel_id": "1323051039192252506",
+        "timestamp": "2026-03-20T14:48:45.176000+00:00",
+        "author_name": "Bravesmile",
+        "author_id": "862726405598347314",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/862726405598347314/444830c8b7114c0d70d5b657c7c31bff.png?size=256",
+        "text": "No na I just feel the perfection in your morality and modest way of approaching things 😂",
+        "text_raw": "No na \nI just feel the perfection in your morality and modest way of approaching things 😂",
+        "is_ru": false,
+        "link": "https://discord.com/channels/1323051038143418388/1323051039192252506/1484564359496732728",
+        "why": "Смешно из-за ироничного преувеличения морали и скромности, что создает комичный контраст.",
+        "tags": [
+          "угар",
+          "кринж",
+          "мем"
+        ],
+        "alt_quotes": [
+          {
+            "message_id": "1484561665017118791"
+          },
+          {
+            "message_id": "1484866685193158688"
+          }
+        ],
+        "score": 6.0,
+        "shortlist_mode": "joke_gate",
+        "debug": {
+          "kept_quotes_in_channel": 1415,
+          "candidates_in_channel": 1415,
+          "shortlist_in_channel": 7
+        }
+      },
+      {
+        "message_id": "1484557626032521236",
+        "channel_id": "1471516611302395995",
+        "timestamp": "2026-03-20T14:21:59.793000+00:00",
+        "author_name": "sergdava",
+        "author_id": "943712310189490266",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/943712310189490266/c8bf6263071526bf2520b5ab287b0181.png?size=256",
+        "text": "За саловзятнечество могут из ж-пу взять)))",
+        "text_raw": "За саловзятнечество могут из ж-пу взять)))",
+        "is_ru": true,
+        "link": "https://discord.com/channels/1323051038143418388/1471516611302395995/1484557626032521236",
+        "why": "Смешно из-за абсурдности ситуации и неожиданности формулировки.",
+        "tags": [
+          "угар",
+          "кринж",
+          "мем"
+        ],
+        "alt_quotes": [
+          {
+            "message_id": "1484911557983998053"
+          }
+        ],
+        "score": 7.0,
+        "shortlist_mode": "joke_gate",
+        "debug": {
+          "kept_quotes_in_channel": 120,
+          "candidates_in_channel": 120,
+          "shortlist_in_channel": 2
+        }
+      },
+      {
+        "message_id": "1484791225184686210",
+        "channel_id": "1464977218521403477",
+        "timestamp": "2026-03-21T05:50:14.171000+00:00",
+        "author_name": "Surabhi",
+        "author_id": "1025671136123555850",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/1025671136123555850/5e0642397116c6ef4e15fd55d0690d96.png?size=256",
+        "text": "Haha 😂",
+        "text_raw": "Haha 😂",
+        "is_ru": false,
+        "link": "https://discord.com/channels/1323051038143418388/1464977218521403477/1484791225184686210",
+        "why": "Простой смайлик 'Haha 😂' передает атмосферу веселья и легкости, что делает его смешным в контексте общения.",
+        "tags": [
+          "угар",
+          "мем"
+        ],
+        "alt_quotes": [],
+        "score": 8.0,
+        "shortlist_mode": "joke_gate",
+        "debug": {
+          "kept_quotes_in_channel": 303,
+          "candidates_in_channel": 303,
+          "shortlist_in_channel": 5
+        }
+      },
+      {
+        "message_id": "1484820492904038520",
+        "channel_id": "1464976455653134628",
+        "timestamp": "2026-03-21T07:46:32.139000+00:00",
+        "author_name": "Zarrr",
+        "author_id": "1116061228171788369",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/1116061228171788369/aa1c22bb7608fb19918f29696d36a1ba.png?size=256",
+        "text": "Sempak pun udah bolong² njir😹 😹",
+        "text_raw": "Sempak pun udah bolong² njir😹 😹",
+        "is_ru": false,
+        "link": "https://discord.com/channels/1323051038143418388/1464976455653134628/1484820492904038520",
+        "why": "Сравнение с поврежденным нижним бельем вызывает смех из-за неожиданности и абсурдности ситуации.",
+        "tags": [
+          "угар",
+          "кринж",
+          "мем"
+        ],
+        "alt_quotes": [
+          {
+            "message_id": "1484899113173778432"
+          },
+          {
+            "message_id": "1484879830549008414"
+          }
+        ],
+        "score": 6.0,
+        "shortlist_mode": "joke_gate",
+        "debug": {
+          "kept_quotes_in_channel": 732,
+          "candidates_in_channel": 732,
+          "shortlist_in_channel": 44
+        }
+      },
+      {
+        "message_id": "1484570820490694726",
+        "channel_id": "1469716246407811133",
+        "timestamp": "2026-03-20T15:14:25.597000+00:00",
+        "author_name": "||『 Tấn Dũng  』||",
+        "author_id": "1094958797878992937",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/1094958797878992937/e2c39875b2d8b5f597fbf4afd0913bd8.png?size=256",
+        "text": "lỏ dái còn 2,5u nha 3u hơi nhiều :)))",
+        "text_raw": "lỏ dái còn 2,5u nha 3u hơi nhiều :)))",
+        "is_ru": false,
+        "link": "https://discord.com/channels/1323051038143418388/1469716246407811133/1484570820490694726",
+        "why": "Смешная игра слов с '2,5u' и '3u', звучит абсурдно и вызывает улыбку.",
+        "tags": [
+          "угар",
+          "кринж",
+          "мем"
+        ],
+        "alt_quotes": [],
+        "score": 9.0,
+        "shortlist_mode": "joke_gate",
+        "debug": {
+          "kept_quotes_in_channel": 390,
+          "candidates_in_channel": 390,
+          "shortlist_in_channel": 35
+        }
+      },
+      {
+        "message_id": "1484663656590610562",
+        "channel_id": "1465367210196205578",
+        "timestamp": "2026-03-20T21:23:19.448000+00:00",
+        "author_name": "𝟎𝐱𝐊𝐢𝐧𝐠𝐬 || Explorer",
+        "author_id": "1354273927676825842",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/1354273927676825842/7c9e4610ae8852a404ff9d32b81b1564.png?size=256",
+        "text": "Lol wetin u com dey do here 😁 What are u doing here man 😁",
+        "text_raw": "Lol wetin u com dey do here 😁\n\nWhat are u doing here man 😁",
+        "is_ru": false,
+        "link": "https://discord.com/channels/1323051038143418388/1465367210196205578/1484663656590610562",
+        "why": "Смешно, потому что это легкое подшучивание над типом, который пришел в чат без особой причины, что делает ситуацию комичной.",
+        "tags": [
+          "угар",
+          "кринж",
+          "мем"
+        ],
+        "alt_quotes": [
+          {
+            "message_id": "1484664037475221686"
+          },
+          {
+            "message_id": "1484665098973741138"
+          }
+        ],
+        "score": 2.0,
+        "shortlist_mode": "top_score",
+        "debug": {
+          "kept_quotes_in_channel": 132,
+          "candidates_in_channel": 132,
+          "shortlist_in_channel": 80
+        }
+      }
+    ]
   }
 ]
