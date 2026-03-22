@@ -1494,5 +1494,188 @@
         }
       }
     ]
+  },
+  {
+    "schema": 2,
+    "generated_at": "2026-03-22T14:22:33.920666+00:00",
+    "since": "2026-03-21T14:22:33.920666+00:00",
+    "lookback_hours": 24,
+    "dry_run": true,
+    "selected_per_channel": [
+      {
+        "message_id": "1485228084956495973",
+        "channel_id": "1323051039192252506",
+        "timestamp": "2026-03-22T10:46:09.657000+00:00",
+        "author_name": "Luffy",
+        "author_id": "1031944030768070757",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/1031944030768070757/fb659c1b50a12df4326ac26cfff38fd5.png?size=256",
+        "text": "He will lost the tracker tooo🤣",
+        "text_raw": "He will lost the tracker tooo🤣",
+        "is_ru": false,
+        "link": "https://discord.com/channels/1323051038143418388/1323051039192252506/1485228084956495973",
+        "why": "Шутка о том, как кто-то потеряет трекер, звучит абсурдно и вызывает смех.",
+        "tags": [
+          "угар",
+          "мем",
+          "шутка"
+        ],
+        "alt_quotes": [],
+        "score": 6.0,
+        "shortlist_mode": "joke_gate",
+        "debug": {
+          "kept_quotes_in_channel": 1344,
+          "candidates_in_channel": 1344,
+          "shortlist_in_channel": 17
+        }
+      },
+      {
+        "message_id": "1484943881387901128",
+        "channel_id": "1471516611302395995",
+        "timestamp": "2026-03-21T15:56:50.246000+00:00",
+        "author_name": "Nikysha",
+        "author_id": "991502702045565088",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/991502702045565088/571fb16c37ee0233f64c70fd8d9f972a.png?size=256",
+        "text": "ОАО Планар?)))",
+        "text_raw": "ОАО Планар?)))",
+        "is_ru": true,
+        "link": "https://discord.com/channels/1323051038143418388/1471516611302395995/1484943881387901128",
+        "why": "Смешное сочетание аббревиатуры и несуразности, вызывает смех.",
+        "tags": [
+          "угар",
+          "кринж",
+          "мем"
+        ],
+        "alt_quotes": [
+          {
+            "message_id": "1485266723446980700"
+          },
+          {
+            "message_id": "1485252310522396673"
+          }
+        ],
+        "score": 7.0,
+        "shortlist_mode": "joke_gate",
+        "debug": {
+          "kept_quotes_in_channel": 117,
+          "candidates_in_channel": 117,
+          "shortlist_in_channel": 4
+        }
+      },
+      {
+        "message_id": "1485166858641608856",
+        "channel_id": "1464977218521403477",
+        "timestamp": "2026-03-22T06:42:52.166000+00:00",
+        "author_name": "𝐏𝐫𝐚𝐭𝐞𝐞𝐤 𝐒𝐢𝐧𝐠𝐡",
+        "author_id": "1125431229311897650",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/1125431229311897650/20f5245b86f2c134e46cb20e968ff20d.png?size=256",
+        "text": "Roti sabji 🤣🤣🤣",
+        "text_raw": "Roti sabji 🤣🤣🤣",
+        "is_ru": false,
+        "link": "https://discord.com/channels/1323051038143418388/1464977218521403477/1485166858641608856",
+        "why": "Простая фраза с смайликами, которая вызывает смех из-за неожиданности и абсурдности.",
+        "tags": [
+          "угар",
+          "мем"
+        ],
+        "alt_quotes": [],
+        "score": 6.0,
+        "shortlist_mode": "joke_gate",
+        "debug": {
+          "kept_quotes_in_channel": 272,
+          "candidates_in_channel": 272,
+          "shortlist_in_channel": 1
+        }
+      },
+      {
+        "message_id": "1484958992261185546",
+        "channel_id": "1464976455653134628",
+        "timestamp": "2026-03-21T16:56:52.959000+00:00",
+        "author_name": "Zarrr",
+        "author_id": "1116061228171788369",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/1116061228171788369/aa1c22bb7608fb19918f29696d36a1ba.png?size=256",
+        "text": "Mampus🤣 🤣 🤣",
+        "text_raw": "Mampus🤣 🤣 🤣",
+        "is_ru": false,
+        "link": "https://discord.com/channels/1323051038143418388/1464976455653134628/1484958992261185546",
+        "why": "Смешная реакция на ситуацию, вызывает улыбку.",
+        "tags": [
+          "угар",
+          "мем"
+        ],
+        "alt_quotes": [
+          {
+            "message_id": "1485163216689434655"
+          },
+          {
+            "message_id": "1485053420409847838"
+          }
+        ],
+        "score": 6.0,
+        "shortlist_mode": "joke_gate",
+        "debug": {
+          "kept_quotes_in_channel": 676,
+          "candidates_in_channel": 676,
+          "shortlist_in_channel": 45
+        }
+      },
+      {
+        "message_id": "1485168917638025267",
+        "channel_id": "1469716246407811133",
+        "timestamp": "2026-03-22T06:51:03.069000+00:00",
+        "author_name": "JTN 🍼",
+        "author_id": "843848578191065088",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/843848578191065088/9b0305a652bb1978e65f4d38726835b1.png?size=256",
+        "text": "không khác gì phần tử AlQaeda =)))",
+        "text_raw": "không khác gì phần tử AlQaeda =)))",
+        "is_ru": false,
+        "link": "https://discord.com/channels/1323051038143418388/1469716246407811133/1485168917638025267",
+        "why": "Сравнение с Аль-Каидой в контексте мемов звучит абсурдно и смешно.",
+        "tags": [
+          "угар",
+          "кринж",
+          "мем"
+        ],
+        "alt_quotes": [],
+        "score": 7.0,
+        "shortlist_mode": "joke_gate",
+        "debug": {
+          "kept_quotes_in_channel": 289,
+          "candidates_in_channel": 289,
+          "shortlist_in_channel": 48
+        }
+      },
+      {
+        "message_id": "1485001498596474920",
+        "channel_id": "1465367210196205578",
+        "timestamp": "2026-03-21T19:45:47.259000+00:00",
+        "author_name": "Emi",
+        "author_id": "1469251787281268921",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/1469251787281268921/22c622dc030c59ad9bc2e0f7c25a4203.png?size=256",
+        "text": "I am good and you?",
+        "text_raw": "I am good and you?",
+        "is_ru": false,
+        "link": "https://discord.com/channels/1323051038143418388/1465367210196205578/1485001498596474920",
+        "why": "Ответ 'I am good and you?' в контексте мем-сообщества звучит абсурдно, как будто кто-то просто игнорирует весь угар вокруг.",
+        "tags": [
+          "угар",
+          "кринж"
+        ],
+        "alt_quotes": [
+          {
+            "message_id": "1485268773329178694"
+          },
+          {
+            "message_id": "1485268721730584661"
+          }
+        ],
+        "score": 4.0,
+        "shortlist_mode": "top_score",
+        "debug": {
+          "kept_quotes_in_channel": 28,
+          "candidates_in_channel": 28,
+          "shortlist_in_channel": 28
+        }
+      }
+    ]
   }
 ]
