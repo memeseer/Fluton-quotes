@@ -1677,5 +1677,198 @@
         }
       }
     ]
+  },
+  {
+    "schema": 2,
+    "generated_at": "2026-03-23T14:51:36.708278+00:00",
+    "since": "2026-03-22T14:51:36.708278+00:00",
+    "lookback_hours": 24,
+    "dry_run": true,
+    "selected_per_channel": [
+      {
+        "message_id": "1485540070294421557",
+        "channel_id": "1323051039192252506",
+        "timestamp": "2026-03-23T07:25:52.758000+00:00",
+        "author_name": "𝐉𝐀𝐂𝐊 𝐒𝐏𝐀𝐑𝐑𝐎𝐖",
+        "author_id": "1086851886415613972",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/1086851886415613972/e47040c6b2837c6ccd5acbbd69e23444.png?size=256",
+        "text": "This is not joke buddy u are a joke 🤣",
+        "text_raw": "This is not joke buddy\n\nu are a joke 🤣",
+        "is_ru": false,
+        "link": "https://discord.com/channels/1323051038143418388/1323051039192252506/1485540070294421557",
+        "why": "Эта реплика забавна, потому что она смешно подчеркивает, как человек не воспринимает свои проблемы всерьез и превращает их в шутку.",
+        "tags": [
+          "угар",
+          "мем",
+          "шутка"
+        ],
+        "alt_quotes": [],
+        "score": 6.0,
+        "shortlist_mode": "joke_gate",
+        "debug": {
+          "kept_quotes_in_channel": 2594,
+          "candidates_in_channel": 2594,
+          "shortlist_in_channel": 35
+        }
+      },
+      {
+        "message_id": "1485643527974027304",
+        "channel_id": "1471516611302395995",
+        "timestamp": "2026-03-23T14:16:58.991000+00:00",
+        "author_name": "Numbe",
+        "author_id": "268397989918277632",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/268397989918277632/3626624df359e9743057b701793a8c3e.png?size=256",
+        "text": "Я там буду?))",
+        "text_raw": "Я там буду?))",
+        "is_ru": true,
+        "link": "https://discord.com/channels/1323051038143418388/1471516611302395995/1485643527974027304",
+        "why": "Смешно из-за неопределенности и иронии в вопросе.",
+        "tags": [
+          "угар",
+          "кринж",
+          "мем"
+        ],
+        "alt_quotes": [
+          {
+            "message_id": "1485491224688459847"
+          },
+          {
+            "message_id": "1485609260565139477"
+          }
+        ],
+        "score": 7.0,
+        "shortlist_mode": "joke_gate",
+        "debug": {
+          "kept_quotes_in_channel": 158,
+          "candidates_in_channel": 158,
+          "shortlist_in_channel": 3
+        }
+      },
+      {
+        "message_id": "1485513907555799121",
+        "channel_id": "1464977218521403477",
+        "timestamp": "2026-03-23T05:41:55.075000+00:00",
+        "author_name": "Surabhi",
+        "author_id": "1025671136123555850",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/1025671136123555850/5e0642397116c6ef4e15fd55d0690d96.png?size=256",
+        "text": "Hn mai toh yaha b kuchh kr rhi hun paani bhar rhi thi bottle mai 😂",
+        "text_raw": "Hn mai toh yaha b kuchh kr rhi hun paani bhar rhi thi bottle mai 😂",
+        "is_ru": false,
+        "link": "https://discord.com/channels/1323051038143418388/1464977218521403477/1485513907555799121",
+        "why": "Смешно, потому что это неожиданное и абсурдное сочетание действий и контекста.",
+        "tags": [
+          "угар",
+          "кринж",
+          "мем"
+        ],
+        "alt_quotes": [
+          {
+            "message_id": "1485511843119370361"
+          },
+          {
+            "message_id": "1485516283410645022"
+          }
+        ],
+        "score": 6.0,
+        "shortlist_mode": "joke_gate",
+        "debug": {
+          "kept_quotes_in_channel": 581,
+          "candidates_in_channel": 581,
+          "shortlist_in_channel": 26
+        }
+      },
+      {
+        "message_id": "1485586729682604042",
+        "channel_id": "1464976455653134628",
+        "timestamp": "2026-03-23T10:31:17.223000+00:00",
+        "author_name": "Alpina",
+        "author_id": "591117795031384094",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/591117795031384094/312df5c0c3e8fe14ac08ec8096f2ea75.png?size=256",
+        "text": "# bocah iso ngawe bocah😹",
+        "text_raw": "# bocah iso ngawe bocah😹",
+        "is_ru": false,
+        "link": "https://discord.com/channels/1323051038143418388/1464976455653134628/1485586729682604042",
+        "why": "Смешной и абсурдный комментарий о детских темах, который вызывает смех.",
+        "tags": [
+          "угар",
+          "кринж",
+          "мем"
+        ],
+        "alt_quotes": [
+          {
+            "message_id": "1485617336156422268"
+          },
+          {
+            "message_id": "1485325517455622166"
+          }
+        ],
+        "score": 6.0,
+        "shortlist_mode": "joke_gate",
+        "debug": {
+          "kept_quotes_in_channel": 1997,
+          "candidates_in_channel": 1997,
+          "shortlist_in_channel": 80
+        }
+      },
+      {
+        "message_id": "1485641781335953479",
+        "channel_id": "1469716246407811133",
+        "timestamp": "2026-03-23T14:10:02.560000+00:00",
+        "author_name": "KirA",
+        "author_id": "1023938155159765062",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/1023938155159765062/260b0fd71fc620fa95f38c353cc185ae.png?size=256",
+        "text": "A long có tât cả nhưng thiếu code :))",
+        "text_raw": "A long có tât cả nhưng thiếu code :))",
+        "is_ru": false,
+        "link": "https://discord.com/channels/1323051038143418388/1469716246407811133/1485641781335953479",
+        "why": "Фраза абсурдна и забавна, сочетает в себе элементы комедии и иронии.",
+        "tags": [
+          "угар",
+          "мем",
+          "кринж"
+        ],
+        "alt_quotes": [],
+        "score": 11.0,
+        "shortlist_mode": "joke_gate",
+        "debug": {
+          "kept_quotes_in_channel": 554,
+          "candidates_in_channel": 554,
+          "shortlist_in_channel": 79
+        }
+      },
+      {
+        "message_id": "1485641898319417496",
+        "channel_id": "1465367210196205578",
+        "timestamp": "2026-03-23T14:10:30.451000+00:00",
+        "author_name": "Dan",
+        "author_id": "1345522094074499155",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/1345522094074499155/47128b3b29d1ed9caeb6ef4b4808f7b6.png?size=256",
+        "text": "Go on your knees Your two hands on your head, say my father my father Give me a rumble win today That's all 😂 Go and win 😎💪🏽",
+        "text_raw": "Go on your knees \nYour two hands on your head, say my father my father \nGive me a rumble win today \nThat's all 😂 \n\nGo and win 😎💪🏽",
+        "is_ru": false,
+        "link": "https://discord.com/channels/1323051038143418388/1465367210196205578/1485641898319417496",
+        "why": "Комбинация молитвы и спортивной терминологии звучит абсурдно и смешно.",
+        "tags": [
+          "угар",
+          "мем",
+          "кринж"
+        ],
+        "alt_quotes": [
+          {
+            "message_id": "1485642855551598652"
+          },
+          {
+            "message_id": "1485642722827305020"
+          }
+        ],
+        "score": 8.0,
+        "shortlist_mode": "joke_gate",
+        "debug": {
+          "kept_quotes_in_channel": 189,
+          "candidates_in_channel": 189,
+          "shortlist_in_channel": 9
+        }
+      }
+    ]
   }
 ]
