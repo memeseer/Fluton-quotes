@@ -1870,5 +1870,198 @@
         }
       }
     ]
+  },
+  {
+    "schema": 2,
+    "generated_at": "2026-03-24T14:53:00.638837+00:00",
+    "since": "2026-03-23T14:53:00.638837+00:00",
+    "lookback_hours": 24,
+    "dry_run": true,
+    "selected_per_channel": [
+      {
+        "message_id": "1485711813000826931",
+        "channel_id": "1323051039192252506",
+        "timestamp": "2026-03-23T18:48:19.410000+00:00",
+        "author_name": "Ꮢ𝖆ყ",
+        "author_id": "904791386480594956",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/904791386480594956/c75968e53150c2fed03c4abe64c474f4.png?size=256",
+        "text": "No encrypt no dream 🤣",
+        "text_raw": "No encrypt no dream 🤣",
+        "is_ru": false,
+        "link": "https://discord.com/channels/1323051038143418388/1323051039192252506/1485711813000826931",
+        "why": "Смешная игра слов, играющая на контрасте между серьезностью и юмором.",
+        "tags": [
+          "угар",
+          "кринж",
+          "мем"
+        ],
+        "alt_quotes": [
+          {
+            "message_id": "1486009707406692412"
+          },
+          {
+            "message_id": "1485909687944744983"
+          }
+        ],
+        "score": 6.0,
+        "shortlist_mode": "joke_gate",
+        "debug": {
+          "kept_quotes_in_channel": 2574,
+          "candidates_in_channel": 2574,
+          "shortlist_in_channel": 44
+        }
+      },
+      {
+        "message_id": "1485983870347378718",
+        "channel_id": "1471516611302395995",
+        "timestamp": "2026-03-24T12:49:22.936000+00:00",
+        "author_name": "VILLAIN",
+        "author_id": "982714258473230398",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/982714258473230398/d9582f5572e3f62d0984e9077f508e83.png?size=256",
+        "text": "ля , ну лан , ни чё не изменится ахах , не хочу исправлять , а то исправленные посты твиттер по просмотрам режет",
+        "text_raw": "ля , ну лан , ни чё не изменится ахах , не хочу исправлять , а то исправленные посты твиттер по просмотрам режет",
+        "is_ru": true,
+        "link": "https://discord.com/channels/1323051038143418388/1471516611302395995/1485983870347378718",
+        "why": "Смешно, потому что автор с иронией говорит о том, что не хочет исправлять свои посты, чтобы не потерять просмотры, что подчеркивает абсурдность ситуации.",
+        "tags": [
+          "угар",
+          "ирония",
+          "мем"
+        ],
+        "alt_quotes": [
+          {
+            "message_id": "1485714378111193218"
+          },
+          {
+            "message_id": "1485946814065545216"
+          }
+        ],
+        "score": 8.0,
+        "shortlist_mode": "joke_gate",
+        "debug": {
+          "kept_quotes_in_channel": 431,
+          "candidates_in_channel": 431,
+          "shortlist_in_channel": 27
+        }
+      },
+      {
+        "message_id": "1486008657111027803",
+        "channel_id": "1464977218521403477",
+        "timestamp": "2026-03-24T14:27:52.561000+00:00",
+        "author_name": "𝐏𝐫𝐚𝐭𝐞𝐞𝐤 𝐒𝐢𝐧𝐠𝐡",
+        "author_id": "1125431229311897650",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/1125431229311897650/20f5245b86f2c134e46cb20e968ff20d.png?size=256",
+        "text": "Mere puchane ka matlab tha hometown Ye nahi ki kitane ghar hai 🤣🤣",
+        "text_raw": "Mere puchane ka matlab tha hometown \n\nYe nahi ki kitane ghar hai 🤣🤣",
+        "is_ru": false,
+        "link": "https://discord.com/channels/1323051038143418388/1464977218521403477/1486008657111027803",
+        "why": "Смешная путаница в вопросе о родном городе и количестве домов.",
+        "tags": [
+          "угар",
+          "кринж",
+          "мем"
+        ],
+        "alt_quotes": [
+          {
+            "message_id": "1486007399390253118"
+          },
+          {
+            "message_id": "1486007173204021268"
+          }
+        ],
+        "score": 6.0,
+        "shortlist_mode": "joke_gate",
+        "debug": {
+          "kept_quotes_in_channel": 949,
+          "candidates_in_channel": 949,
+          "shortlist_in_channel": 62
+        }
+      },
+      {
+        "message_id": "1485856483500494983",
+        "channel_id": "1464976455653134628",
+        "timestamp": "2026-03-24T04:23:11.545000+00:00",
+        "author_name": "online",
+        "author_id": "917275641441816607",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/917275641441816607/32e0017b04d6522cb40855c5f099fadb.png?size=256",
+        "text": "bjirr jgn di spill 🤣 pas tau itu eek ny w pilih goodday rasa coklat 🙏",
+        "text_raw": "bjirr jgn di spill 🤣 \npas tau itu eek ny w pilih goodday rasa coklat 🙏",
+        "is_ru": false,
+        "link": "https://discord.com/channels/1323051038143418388/1464976455653134628/1485856483500494983",
+        "why": "Смешно, потому что шутка про выбор шоколадного вкуса выглядит абсурдно и неожиданно.",
+        "tags": [
+          "угар",
+          "мем",
+          "шутка"
+        ],
+        "alt_quotes": [],
+        "score": 6.0,
+        "shortlist_mode": "joke_gate",
+        "debug": {
+          "kept_quotes_in_channel": 2937,
+          "candidates_in_channel": 2937,
+          "shortlist_in_channel": 80
+        }
+      },
+      {
+        "message_id": "1486006233948491888",
+        "channel_id": "1469716246407811133",
+        "timestamp": "2026-03-24T14:18:14.834000+00:00",
+        "author_name": "||『 Tấn Dũng  』||",
+        "author_id": "1094958797878992937",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/1094958797878992937/e2c39875b2d8b5f597fbf4afd0913bd8.png?size=256",
+        "text": "vội rồi cho anh em sài =)))",
+        "text_raw": "vội rồi cho anh em sài =)))",
+        "is_ru": false,
+        "link": "https://discord.com/channels/1323051038143418388/1469716246407811133/1486006233948491888",
+        "why": "Смешная игра слов с 'sài', вызывающая улыбку.",
+        "tags": [
+          "угар",
+          "мем",
+          "шутка"
+        ],
+        "alt_quotes": [],
+        "score": 9.0,
+        "shortlist_mode": "joke_gate",
+        "debug": {
+          "kept_quotes_in_channel": 775,
+          "candidates_in_channel": 775,
+          "shortlist_in_channel": 80
+        }
+      },
+      {
+        "message_id": "1485996887172579418",
+        "channel_id": "1465367210196205578",
+        "timestamp": "2026-03-24T13:41:06.389000+00:00",
+        "author_name": "𝟎𝐱𝐋𝐚𝐯𝐢𝐬",
+        "author_id": "1327583829988474923",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/1327583829988474923/7feeae0d4c964c31fe1bb35df8804f24.png?size=256",
+        "text": "If run am for you I go hold am for balls make em run for me too 😂😭",
+        "text_raw": "If run am for you \n\nI go hold am for balls make em run for me too 😂😭",
+        "is_ru": false,
+        "link": "https://discord.com/channels/1323051038143418388/1465367210196205578/1485996887172579418",
+        "why": "Смешная игра слов с намёком на физические действия, создающая комичный образ.",
+        "tags": [
+          "угар",
+          "кринж",
+          "мем"
+        ],
+        "alt_quotes": [
+          {
+            "message_id": "1485732810852667463"
+          },
+          {
+            "message_id": "1486008599871356960"
+          }
+        ],
+        "score": 6.0,
+        "shortlist_mode": "joke_gate",
+        "debug": {
+          "kept_quotes_in_channel": 144,
+          "candidates_in_channel": 144,
+          "shortlist_in_channel": 8
+        }
+      }
+    ]
   }
 ]
