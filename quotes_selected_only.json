@@ -2063,5 +2063,205 @@
         }
       }
     ]
+  },
+  {
+    "schema": 2,
+    "generated_at": "2026-03-25T14:54:30.061972+00:00",
+    "since": "2026-03-24T14:54:30.061972+00:00",
+    "lookback_hours": 24,
+    "dry_run": true,
+    "selected_per_channel": [
+      {
+        "message_id": "1486312444677853254",
+        "channel_id": "1323051039192252506",
+        "timestamp": "2026-03-25T10:35:01.161000+00:00",
+        "author_name": "Victor",
+        "author_id": "1037774931250921502",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/1037774931250921502/676c55b63818a0e74b475e6a18f057c6.png?size=256",
+        "text": "Yes mate only 77 is good . 😂",
+        "text_raw": "Yes mate only 77 is good . 😂",
+        "is_ru": false,
+        "link": "https://discord.com/channels/1323051038143418388/1323051039192252506/1486312444677853254",
+        "why": "Смешно, потому что фраза об ограничении в 77 звучит абсурдно и вызывает улыбку.",
+        "tags": [
+          "угар",
+          "мем",
+          "шутка"
+        ],
+        "alt_quotes": [],
+        "score": 8.0,
+        "shortlist_mode": "joke_gate",
+        "debug": {
+          "kept_quotes_in_channel": 2811,
+          "candidates_in_channel": 2811,
+          "shortlist_in_channel": 65
+        }
+      },
+      {
+        "message_id": "1486121931345232115",
+        "channel_id": "1471516611302395995",
+        "timestamp": "2026-03-24T21:57:59.243000+00:00",
+        "author_name": "[mksbkv]",
+        "author_id": "1230048573442228326",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/1230048573442228326/a3c92bc7325d388504a91297386495fc.png?size=256",
+        "text": "я далеко не студент 🥲 🤣",
+        "text_raw": "я далеко не студент  🥲 🤣",
+        "is_ru": true,
+        "link": "https://discord.com/channels/1323051038143418388/1471516611302395995/1486121931345232115",
+        "why": "Смешно, потому что неожиданное признание о возрасте в контексте студенческой жизни вызывает улыбку.",
+        "tags": [
+          "угар",
+          "кринж",
+          "мем"
+        ],
+        "alt_quotes": [
+          {
+            "message_id": "1486107332868833351"
+          },
+          {
+            "message_id": "1486105971099963462"
+          }
+        ],
+        "score": 6.0,
+        "shortlist_mode": "joke_gate",
+        "debug": {
+          "kept_quotes_in_channel": 209,
+          "candidates_in_channel": 209,
+          "shortlist_in_channel": 8
+        }
+      },
+      {
+        "message_id": "1486021655146004602",
+        "channel_id": "1464977218521403477",
+        "timestamp": "2026-03-24T15:19:31.534000+00:00",
+        "author_name": "Heisenberg",
+        "author_id": "982685772123631696",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/982685772123631696/8b35334529f8d35782095c441a436e08.png?size=256",
+        "text": "Aur bagal ke padosi kaise hai 😂🤣🤣",
+        "text_raw": "Aur bagal ke padosi kaise hai 😂🤣🤣",
+        "is_ru": false,
+        "link": "https://discord.com/channels/1323051038143418388/1464977218521403477/1486021655146004602",
+        "why": "Шутка про соседей всегда смешная, особенно с такой реакцией.",
+        "tags": [
+          "угар",
+          "мем",
+          "шутка"
+        ],
+        "alt_quotes": [
+          {
+            "message_id": "1486339727723597826"
+          },
+          {
+            "message_id": "1486246984267468919"
+          }
+        ],
+        "score": 6.0,
+        "shortlist_mode": "joke_gate",
+        "debug": {
+          "kept_quotes_in_channel": 467,
+          "candidates_in_channel": 467,
+          "shortlist_in_channel": 14
+        }
+      },
+      {
+        "message_id": "1486333866015981690",
+        "channel_id": "1464976455653134628",
+        "timestamp": "2026-03-25T12:00:08.406000+00:00",
+        "author_name": "Faisal Ahmad Khanday",
+        "author_id": "1243624737633206312",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/1243624737633206312/2874d57b66a74af821383e8ef2f019e1.png?size=256",
+        "text": "Why is your name Online, you're always Offline. 😂",
+        "text_raw": "Why is your name Online, you're always Offline. 😂",
+        "is_ru": false,
+        "link": "https://discord.com/channels/1323051038143418388/1464976455653134628/1486333866015981690",
+        "why": "Смешно, потому что это забавная игра слов о нике 'Online', который не соответствует действительности.",
+        "tags": [
+          "угар",
+          "кринж",
+          "мем"
+        ],
+        "alt_quotes": [
+          {
+            "message_id": "1486349273657507882"
+          },
+          {
+            "message_id": "1486318325024952400"
+          }
+        ],
+        "score": 8.0,
+        "shortlist_mode": "joke_gate",
+        "debug": {
+          "kept_quotes_in_channel": 2496,
+          "candidates_in_channel": 2496,
+          "shortlist_in_channel": 63
+        }
+      },
+      {
+        "message_id": "1486376564470972629",
+        "channel_id": "1469716246407811133",
+        "timestamp": "2026-03-25T14:49:48.511000+00:00",
+        "author_name": "||『 Tấn Dũng  』||",
+        "author_id": "1094958797878992937",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/1094958797878992937/e2c39875b2d8b5f597fbf4afd0913bd8.png?size=256",
+        "text": "Thích như đê ci bồ đó =)) Râu như huân chương 🤣🤣",
+        "text_raw": "Thích như đê ci bồ đó =))\nRâu như huân chương 🤣🤣",
+        "is_ru": false,
+        "link": "https://discord.com/channels/1323051038143418388/1469716246407811133/1486376564470972629",
+        "why": "Смешная игра слов и сарказм про бороду.",
+        "tags": [
+          "угар",
+          "кринж",
+          "мем"
+        ],
+        "alt_quotes": [
+          {
+            "message_id": "1486368710037082122"
+          },
+          {
+            "message_id": "1486371046805344428"
+          }
+        ],
+        "score": 11.0,
+        "shortlist_mode": "joke_gate",
+        "debug": {
+          "kept_quotes_in_channel": 707,
+          "candidates_in_channel": 707,
+          "shortlist_in_channel": 80
+        }
+      },
+      {
+        "message_id": "1486138429124382750",
+        "channel_id": "1465367210196205578",
+        "timestamp": "2026-03-24T23:03:32.620000+00:00",
+        "author_name": "Whiykheiy",
+        "author_id": "854490052839342131",
+        "author_avatar_url": "https://cdn.discordapp.com/avatars/854490052839342131/8dd7475204acb4d73b24329b45518ed3.png?size=256",
+        "text": "Me khe 😂 I be Chelsea I mean say we be beating partner Watin dey worry our club",
+        "text_raw": "Me khe 😂\nI be Chelsea I mean say we be beating partner\nWatin dey worry our club",
+        "is_ru": false,
+        "link": "https://discord.com/channels/1323051038143418388/1465367210196205578/1486138429124382750",
+        "why": "Смешно, потому что это ироничное выражение о неудачах футбольного клуба, со ссылкой на реальный контекст.",
+        "tags": [
+          "угар",
+          "футбол",
+          "мем"
+        ],
+        "alt_quotes": [
+          {
+            "message_id": "1486146293897363638"
+          },
+          {
+            "message_id": "1486136167026917668"
+          }
+        ],
+        "score": 8.0,
+        "shortlist_mode": "joke_gate",
+        "debug": {
+          "kept_quotes_in_channel": 445,
+          "candidates_in_channel": 445,
+          "shortlist_in_channel": 30
+        }
+      }
+    ]
   }
 ]
